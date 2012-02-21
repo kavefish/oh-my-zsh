@@ -4,5 +4,6 @@ projects.zsh
 custom/*
 !custom/example
 !custom/example.zsh
+!custom/fix_autocomplete.zsh
 cache
 *.swp

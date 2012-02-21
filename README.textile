@@ -1,3 +1,15 @@
+h2. Summary of my changes
+
+Please summarize any changse you make here:
+
+1. Created a personal branch (to help aid merging back with upstream)
+2. Disabled auto-update feature
+3. Applied bug-fix for tab completion of '..' special directories
+4. Set a sensible default theme
+5. Export $ZSH beyond .zshrc (needed by the theme_chooser script)
+
+Now back to your normally scheduled programing...
+
 A handful of functions, auto-complete helpers, and stuff that makes you shout...
 
 bq. "OH MY ZSHELL!"
